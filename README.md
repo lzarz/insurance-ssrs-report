@@ -1,4 +1,5 @@
 # insurance-ssrs-report
+![Static Badge](https://img.shields.io/badge/SMSS-20-yellow)
 
 ## Overview
 
