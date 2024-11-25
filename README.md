@@ -8,3 +8,7 @@ Load dummy dataset in SQL Server Database that act as warehouse into SSRS Report
 ## Details
 
 Status : For Portofolio Development
+
+## Sample
+
+![Alt text](/SSRS.jpg)
