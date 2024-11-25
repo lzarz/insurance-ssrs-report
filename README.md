@@ -6,4 +6,4 @@ Load dummy dataset in SQL Server Database that act as warehouse into SSRS Report
 
 ## Details
 
-Status : For Training
+Status : For Portofolio Development
